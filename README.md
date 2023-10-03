@@ -115,18 +115,18 @@ Copyright © 1997 by Wayne T. Venables, all rights reserved. This FAQ may be pos
 
 [**8 Communication**](#8-communication)
 
-> **[8.1 Can I read Internet E-mail with the OmniGo?](#81-can-i-read-internet-e-mail-with-the-omnigo)  
+**[8.1 Can I read Internet E-mail with the OmniGo?](#81-can-i-read-internet-e-mail-with-the-omnigo)  
 [8.2 Can I use my OmniGo for Web Browsing?](#82-can-i-use-my-omnigo-for-web-browsing)  
 [8.3 Can I fax from my OmniGo?](#83-can-i-fax-from-my-omnigo)**
 
 [**9 Customizing the OmniGo**](#9-customizing-the-omnigo)
 
-> **[9.1 Note and Warning on Customizing the OmniGo.](#91-note-and-warning-on-customizing-the-omnigo)  
+**[9.1 Note and Warning on Customizing the OmniGo.](#91-note-and-warning-on-customizing-the-omnigo)  
 [9.2 How can I remove unused programs from the Home Screen?](#92-how-can-i-remove-unused-programs-from-the-home-screen)**
 
 [**10 International Information**](#10-international-information)
 
-> [**10.1 Can I purchase cheaper OmniGo goods from the USA?**](#101-can-i-purchase-cheaper-omnigo-goods-from-the-usa)
+[**10.1 Can I purchase cheaper OmniGo goods from the USA?**](#101-can-i-purchase-cheaper-omnigo-goods-from-the-usa)
 
 ### 1 General Omnigo Information
 
@@ -173,14 +173,14 @@ Most OmniGo discussion occurs in the OmniGo mailing list. To subscribe send an e
  
 
 |_Newsgroups:_||
-|-------------------|----------------|
+|:-------------------|----------------|
 |[comp.os.geos.misc](news:comp.os.geos.misc)|General discussion of the GEOS operating system.|
 |[comp.sys.palmtops](news:comp.sys.palmtops)|General discussion of palmtop computers.|
 |[comp.sys.handhelds](news:comp.sys.handhelds)|General discussion of handheld computers.|
  
 
 |_Web pages:_||
-|-------------------|----------------|
+|:-------------------|----------------|
 |Geoworks|[http://www.geoworks.com/devices/omnigo](https://web.archive.org/web/19981202044022/http://www.geoworks.com/devices/omnigo/)|
 |Max Mansour|[http://omnigo.home.ml.org](https://web.archive.org/web/20010424084421/http://omnigo.home.ml.org/)
 |Asher Hoskins|[http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010429040246/http://domestic1.sjc.ox.ac.uk/~ahoskins/play/omnigo/)|
@@ -214,7 +214,7 @@ The OmniGo uses two "AA" batteries in series to provide 3V of main power; The sy
 Moderate use of the OmniGo will allow for approximately 4 weeks of use on one pair of alkaline batteries --with the same level of use, lithium batteries could be expected to last 8 weeks. Heavy users of the device report 2 weeks on alkalines, and one month on lithiums. Modem and serial port use, DOS Mode, and RAM cards shorten battery life.
  
 |Drain MA|Activity|
-|--------|--------|
+|:--------|:--------|
 |1.1     |Switched off.|
 |49      |Idle in GEOS.
 |60      |Idle in GEOS with Premax 1MB SRAM card.|
