@@ -4,6 +4,8 @@ The HP OmniGo 100/120 Organizer Plus
 First Draft  
 Last Updated on September 14, 1997
 
+![](omnigo100.gif)
+
 ### FIRST DRAFT INFORMATION
 
 This is the first draft of the HP Omnigo 100/120 FAQ. This document is a considerable amount of work and I would appriciate any suggestions, additions or corrections. Please note that _this is an incomplete product_ and should not be posted to any newsgroups or mailing lists .
