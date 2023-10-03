@@ -3,7 +3,6 @@
 The HP OmniGo 100/120 Organizer Plus  
 First Draft  
 Last Updated on September 14, 1997
-=======================================
 
 ### FIRST DRAFT INFORMATION
 
@@ -44,7 +43,7 @@ Copyright © 1997 by Wayne T. Venables, all rights reserved. This FAQ may be pos
 
 ### INDEX
 
-[**1 General Omnigo Information**](#1)
+[**1 General Omnigo Information**](#1-general-omnigo-information)
 
 **[1.1 What is the HP OmniGo 100/120 Organizer Plus?](#1.1)  
 [1.2 What is the difference between then 100 and 120?](#1.2)  
@@ -173,57 +172,24 @@ Newsgroups: [comp.sys.palmtops](https://web.archive.org/web/20010424084421/news:
 Most OmniGo discussion occurs in the OmniGo mailing list. To subscribe send an e-mail to [majordomo@lifelike.com](https://web.archive.org/web/20010424084421/mailto:majordomo@lifelike.com) with "subscribe ogo" somewhere in the body. An archive of previous postings to the list is available at [http://www.grot.com/zoomer/zoomer-list/archives.html](https://web.archive.org/web/20010424084421/http://www.grot.com/zoomer/zoomer-list/archives.html).
  
 _Newsgroups:_
- 
- [comp.os.geos.misc](https://web.archive.org/web/20010424084421/news:comp.os.geos.misc)
- 
- General discussion of the GEOS operating system.
- 
- [comp.sys.palmtops](https://web.archive.org/web/20010424084421/news:comp.sys.palmtops)
- 
- General discussion of palmtop computers.
- 
- [comp.sys.handhelds](https://web.archive.org/web/20010424084421/news:comp.sys.handhelds)
- 
- General discussion of handheld computers.
+|||
+|-------------------|----------------|
+|[comp.os.geos.misc](https://web.archive.org/web/20010424084421/news:comp.os.geos.misc)|General discussion of the GEOS operating system.|
+|[comp.sys.palmtops](https://web.archive.org/web/20010424084421/news:comp.sys.palmtops)|General discussion of palmtop computers.|
+|[comp.sys.handhelds](https://web.archive.org/web/20010424084421/news:comp.sys.handhelds)|General discussion of handheld computers.|
  
 _Web pages:_
-
-Geoworks
-
-[http://www.geoworks.com/devices/omnigo](https://web.archive.org/web/20010424084421/http://www.geoworks.com/devices/omnigo)
-
-Max Mansour
-
-[http://omnigo.home.ml.org](https://web.archive.org/web/20010424084421/http://omnigo.home.ml.org/)
-
-Asher Hoskins
-
-[http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010424084421/http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/)
-
-Finebind
-
-[http://users.axxis.com/redirect/mfine/finebind.html](https://web.archive.org/web/20010424084421/http://users.axxis.com/redirect/mfine/finebind.html)
-
-IZL homepage
-
-[http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/20010424084421/http://www.netaxs.com/~jferas/izl.htm)
-
-Ray Schuler
-
-[http://www.usa.net/~schuler/ogware.html](https://web.archive.org/web/20010424084421/http://www.usa.net/~schuler/ogware.html)
-
-Scottie Kinder
-
-[http://www.concentric.net/~rkinder/ogo.shtml](https://web.archive.org/web/20010424084421/http://www.concentric.net/~rkinder/ogo.shtml)
-
-John Bearden
-
-[http://ourworld.compuserve.com/homepages/](https://web.archive.org/web/20010424084421/http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm)  
-[jbearden/geoindex.htm](https://web.archive.org/web/20010424084421/http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm)
-
-Nathan Fielder
-
-[http://members.aol.com/nfiedler/index.html](https://web.archive.org/web/20010424084421/http://members.aol.com/nfiedler/index.html)
+|||
+|-------------------|----------------|
+|Geoworks|[http://www.geoworks.com/devices/omnigo](https://web.archive.org/web/20010424084421/http://www.geoworks.com/devices/omnigo)|
+|Max Mansour|[http://omnigo.home.ml.org](https://web.archive.org/web/20010424084421/http://omnigo.home.ml.org/)
+|Asher Hoskins|[http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010424084421/http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/)|
+|Finebind|[http://users.axxis.com/redirect/mfine/finebind.html](https://web.archive.org/web/20010424084421/http://users.axxis.com/redirect/mfine/finebind.html)
+|IZL homepage|[http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/20010424084421/http://www.netaxs.com/~jferas/izl.htm)
+|Ray Schuler|[http://www.usa.net/~schuler/ogware.html](https://web.archive.org/web/20010424084421/http://www.usa.net/~schuler/ogware.html)
+|Scottie Kinder|[http://www.concentric.net/~rkinder/ogo.shtml](https://web.archive.org/web/20010424084421/http://www.concentric.net/~rkinder/ogo.shtml)|
+|John Bearden|[http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm](https://web.archive.org/web/20010424084421/http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm)
+|Nathan Fielder|[http://members.aol.com/nfiedler/index.html](https://web.archive.org/web/20010424084421/http://members.aol.com/nfiedler/index.html)|
 
 ### 2 OmniGo Hardware
 
@@ -857,4 +823,3 @@ Submitted by [Brian Inwood](https://web.archive.org/web/20010424084421/mailto:B.
 **End of FAQ.**
 
 Copyright © 1997 by Wayne T. Venables, all rights reserved. This FAQ may be posted to any USENET newsgroup, on-line service, or BBS as long as it is posted in its entirety and includes this copyright statement. This FAQ may not be distributed for financial gain. This FAQ may not be included in commercial collections or compilations without express permission from the author.
-
