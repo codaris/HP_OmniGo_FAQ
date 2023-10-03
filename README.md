@@ -10,7 +10,7 @@ This is the first draft of the HP Omnigo 100/120 FAQ. This document is a conside
 
 This web site [http://omnigofaq.home.ml.org](https://web.archive.org/web/20010424084421/http://omnigofaq.home.ml.org/) is the offical web site of the FAQ.
 
-For suggestions, additions or corrections please contact me at [omnigoman@geocities.com](https://web.archive.org/web/20010424084421/mailto:omnigoman@geocities.com).
+For suggestions, additions or corrections please contact me at [omnigoman@geocities.com](mailto:omnigoman@geocities.com).
  
 Thanks,  
 Wayne Venables  
@@ -45,88 +45,88 @@ Copyright © 1997 by Wayne T. Venables, all rights reserved. This FAQ may be pos
 
 [**1 General Omnigo Information**](#1-general-omnigo-information)
 
-**[1.1 What is the HP OmniGo 100/120 Organizer Plus?](#1.1)  
-[1.2 What is the difference between then 100 and 120?](#1.2)  
-[1.3 How does it compare to other electronic organizers?](#1.3)  
-[1.4 What operating system does the OmniGo use?](#1.4)  
-[1.5 What is Graffiti?](#1.5)  
-[1.6 Where can I purchase an OmniGo?](#1.6)  
-[1.7 What online resources exist for OmniGo users?](#1.7)**
+> **[1.1 What is the HP OmniGo 100/120 Organizer Plus?](#11-what-is-the-hp-omnigo-100120-organizer-plus)  
+[1.2 What is the difference between then 100 and 120?](#12-what-is-the-difference-between-the-100-and-120)  
+[1.3 How does it compare to other electronic organizers?](#13-how-does-it-compare-to-other-electronic-organizers)  
+[1.4 What operating system does the OmniGo use?](#14-what-operating-system-does-the-omnigo-use)  
+[1.5 What is Graffiti?](#15-what-is-graffiti)  
+[1.6 Where can I purchase an OmniGo?](#16-where-can-i-purchase-an-omnigo)  
+[1.7 What online resources exist for OmniGo users?](#17-what-online-resources-exist-for-the-omnigo-users)**
 
-[**2 OmniGo Hardware**](#2)
+[**2 OmniGo Hardware**](#2-omnigo-hardware)
 
-**[2.1 Physical Characteristics.](#2.1)  
-[2.2 Hardware Specifications.](#2.2)  
-[2.3 What kind of batteries does the OmniGo use?](#2.3)  
-[2.4 How much battery life does the OmniGo get?](#2.4)  
-[2.5 Can I use an external power supply?](#2.5)  
-[2.6 Can I upgrade the internal RAM?](#2.6)  
-[2.7 What is diagnostic mode?](#2.7)  
-[2.8 Does the OmniGo's screen need protection?](#2.8)  
-[2.9 My OmniGo will not turn on, what can I do?](#2.9)**
+> **[2.1 Physical Characteristics.](#21-physical-characteristics)  
+[2.2 Hardware Specifications.](#22-hardware-specifications)  
+[2.3 What kind of batteries does the OmniGo use?](#23-what-kind-of-batteries-does-the-omnigo-use)  
+[2.4 How much battery life does the OmniGo get?](#24-how-much-battery-life-does-the-omnigo-get)  
+[2.5 Can I use an external power supply?](#25-can-i-use-an-external-power-supply)  
+[2.6 Can I upgrade the internal RAM?](#26-can-i-upgrade-the-internal-ram)  
+[2.7 What is diagnostic mode?](#27-what-is-diagnostic-mode)  
+[2.8 Does the OmniGo's screen need protection?](#28-does-the-omnigos-screen-need-protection)  
+[2.9 My OmniGo will not turn on, what can I do?](#29-my-omnigo-will-not-turn-on-what-can-i-do)**
 
-[**3 OmniGo Software Information**](#3)
+[**3 OmniGo Software Information**](#3-omnigo-software-information)
 
-**[3.1 What software exists for the OmniGo?](#3.1)  
-[3.2 What DOS software can I run on my OmniGo?](#3.2)  
-[3.3 What are E-books(Content) and where can I find them?](#3.3)  
-[3.4 How do I reset my OmniGo?](#3.4)  
-[3.5 Why does free memory drop over time for no reason?](#3.5)  
-[3.6 What are IZL applications and how do I run them?](#3.6)  
-[3.7 How do I create an event in the appointment book?](#3.7)  
-[3.8 Using passwords and locking your OmniGo.](#3.8)  
-[3.9 OmniGo Software Wish List.](#3.9)**
+> **[3.1 What software exists for the OmniGo?](#31-what-software-exists-for-the-omnigo)  
+[3.2 What DOS software can I run on my OmniGo?](#32-what-dos-software-can-i-run-on-my-omnigo)  
+[3.3 What are E-books(Content) and where can I find them?](#33-what-are-electronic-books-and-where-can-i-find-them)  
+[3.4 How do I reset my OmniGo?](#34-how-do-i-reset-my-omnigo)  
+[3.5 Why does free memory drop over time for no reason?](#35-why-does-free-memory-drop-over-time-for-no-reason)  
+[3.6 What are IZL applications and how do I run them?](#36-what-are-izl-applications-and-how-do-i-run-them)  
+[3.7 How do I create an event in the appointment book?](#37-how-do-i-create-an-event-in-the-appointment-book)  
+[3.8 Using passwords and locking your OmniGo.](#38-using-passwords-and-locking-your-omnigo)  
+[3.9 OmniGo Software Wish List.](#39-omnigo-software-wish-list)**
 
-[**4 Desktop Connectivity Information**](#4)
+[**4 Desktop Connectivity Information**](#4-desktop-connectivity-information)
 
-**[4.1 Connectivity Overview.](#4.1)  
-[4.2 What is the Connectivity Pack?](#4.2)  
-[4.3 What is Clip & Go?](#4.3)  
-[4.4 What is Link to Windows?](#4.4)  
-[4.5 What is the Installer?](#4.5)  
-[4.6 What if I use DOS?](#4.6)  
-[4.7 What if I have a Macintosh?](#4.7)  
-[4.8 What if I use UNIX or OS/2?](#4.8)**
+> **[4.1 Connectivity Overview.](#41-connectivity-overview)  
+[4.2 What is the Connectivity Pack?](#42-what-is-the-connectivity-pack)  
+[4.3 What is Clip & Go?](#43-what-is-clip--go)  
+[4.4 What is Link to Windows?](#44-what-is-link-to-windows)  
+[4.5 What is the Installer?](#45-what-is-the-installer)  
+[4.6 What if I use DOS?](#46-what-if-i-use-dos)  
+[4.7 What if I have a Macintosh?](#47-what-if-i-have-a-macintosh)  
+[4.8 What if I use UNIX or OS/2?](#48-what-if-i-use-unix-or-os2)**
 
-[**5 Memory and Memory Expansion**](#5)
+[**5 Memory and Memory Expansion**](#5-memory-and-memory-expansion)
 
-**[5.1 How can I increase the OmniGo's storage capacity?](#5.1)  
-[5.2 What is the difference between SRAM and FlashRAM?](#5.2)  
-[5.3 Why don't all SRAM and FlashRAM cards work on the OmniGo?](#5.3)  
-[5.4 Why does my OmniGo take up to 5 seconds to react after being turned on?](#5.4)  
-[5.5 Where can I find SRAM cards for the OmniGo?](#5.5)  
-[5.6 Where can I find FlashRAM cards for the OmniGo?](#5.6)  
-[5.7 Increasing storage with a file/disk compressor.](#5.7)  
-[5.8 How do I install and use dLite?](#5.8)  
-[5.9 How do I install and use Stacker?](#5.9)**
+> **[5.1 How can I increase the OmniGo's storage capacity?](#51-how-can-i-increase-the-omnigos-storage-capacity)  
+[5.2 What is the difference between SRAM and FlashRAM?](#52-what-is-the-difference-between-sram-and-flashram)  
+[5.3 Why don't all SRAM and FlashRAM cards work on the OmniGo?](#53-why-dont-all-sram-and-flashram-cards-work-on-the-omnigo)  
+[5.4 Why does my OmniGo take up to 5 seconds to react after being turned on?](#54-why-does-my-omnigo-take-up-to-5-seconds-to-react-after-being-turned-on)  
+[5.5 Where can I find SRAM cards for the OmniGo?](#55-where-can-i-find-sram-cards-for-the-omnigo)  
+[5.6 Where can I find FlashRAM cards for the OmniGo?](#56-where-can-i-find-flashram-cards-for-the-omnigo)  
+[5.7 Increasing storage with a file/disk compressor.](#57-increasing-storage-with-a-filedisk-compressor)  
+[5.8 How do I install and use dLite?](#58-how-do-i-install-and-use-dlite)  
+[5.9 How do I install and use Stacker?](#59-how-do-i-install-and-use-stacker)**
 
-[**6 DOS Mode**](#6)
+[**6 DOS Mode**](#6-dos-mode)
 
-**[6.1 What is OmniGo DOS Mode?](#6.1)  
-[6.2 How can I get to DOS Mode?](#6.2)  
-[6.3 How do I get back into GEOS from DOS Mode?](#6.3)  
-[6.4 Why do my batteries drain faster in DOS Mode?](#6.4)**
+> **[6.1 What is OmniGo DOS Mode?](#61-what-is-omnigo-dos-mode)  
+[6.2 How can I get to DOS Mode?](#62-how-can-i-get-to-dos-mode)  
+[6.3 How do I get back into GEOS from DOS Mode?](#63-how-do-i-get-back-into-geos-from-dos-mode)  
+[6.4 Why do my batteries drain faster in DOS Mode?](#64-why-do-my-batteries-drain-faster-in-dos-mode)**
 
-[**7 Developing for the OmniGo**](#7)
+[**7 Developing for the OmniGo**](#7-developing-for-the-omnigo)
 
-**[7.1 How I can develop for the OmniGo?](#7.1)  
-[7.2 What is the Omnigo SDK?](#7.2)  
-[7.3 What is IZL?](#7.3)**
+> **[7.1 How I can develop for the OmniGo?](#71-how-i-can-develop-for-the-omnigo)  
+[7.2 What is the Omnigo SDK?](#72-what-is-the-omnigo-sdk)  
+[7.3 What is IZL?](#73-what-is-izl)**
 
-[**8 Communication**](#8)
+[**8 Communication**](#8-communication)
 
-**[8.1 Can I read Internet E-mail with the OmniGo?](#8.1)  
-[8.2 Can I use my OmniGo for Web Browsing?](#8.2)  
-[8.3 Can I fax from my OmniGo?](#8.3)**
+**[8.1 Can I read Internet E-mail with the OmniGo?](#81-can-i-read-internet-e-mail-with-the-omnigo)  
+[8.2 Can I use my OmniGo for Web Browsing?](#82-can-i-use-my-omnigo-for-web-browsing)  
+[8.3 Can I fax from my OmniGo?](#83-can-i-fax-from-my-omnigo)**
 
-[**9 Customizing the OmniGo**](#9)
+[**9 Customizing the OmniGo**](#9-customizing-the-omnigo)
 
-**[9.1 Note and Warning on Customizing the OmniGo.](#9.1)  
-[9.2 How can I remove unused programs from the Home Screen?](#9.2)**
+**[9.1 Note and Warning on Customizing the OmniGo.](#91-note-and-warning-on-customizing-the-omnigo)  
+[9.2 How can I remove unused programs from the Home Screen?](#92-how-can-i-remove-unused-programs-from-the-home-screen)**
 
-[**10 International Information**](#10)
+[**10 International Information**](#10-international-information)
 
-[**10.1 Can I purchase cheaper OmniGo goods from the USA?**](#10.1)
+[**10.1 Can I purchase cheaper OmniGo goods from the USA?**](#101-can-i-purchase-cheaper-omnigo-goods-from-the-usa)
 
 ### 1 General Omnigo Information
 
@@ -164,31 +164,31 @@ Graffiti is a handwriting recognition system which recognizes characters written
 
 Although HP has offically discontinued the OmniGo, you can still purchase it new from various sources. Some retailers and mail order suppliers still have the OmniGo and accessories in stock. If you are in the market for a used OmniGo, you can often find one forsale in a few USENET newsgroups.
  
-Best mail order prices are at [http://www.pdapage.com](https://web.archive.org/web/20010424084421/http://www.pdapage.com/).  
-Newsgroups: [comp.sys.palmtops](https://web.archive.org/web/20010424084421/news:comp.sys.palmtops), [comp.sys.handhelds](https://web.archive.org/web/20010424084421/news:comp.sys.handhelds).
+Best mail order prices are at [http://www.pdapage.com](https://web.archive.org/web/19981111191308/http://www.pdapage.com/).  
+Newsgroups: [comp.sys.palmtops](news:comp.sys.palmtops), [comp.sys.handhelds](news:comp.sys.handhelds).
 
 #### 1.7 What online resources exist for the OmniGo users?
 
-Most OmniGo discussion occurs in the OmniGo mailing list. To subscribe send an e-mail to [majordomo@lifelike.com](https://web.archive.org/web/20010424084421/mailto:majordomo@lifelike.com) with "subscribe ogo" somewhere in the body. An archive of previous postings to the list is available at [http://www.grot.com/zoomer/zoomer-list/archives.html](https://web.archive.org/web/20010424084421/http://www.grot.com/zoomer/zoomer-list/archives.html).
+Most OmniGo discussion occurs in the OmniGo mailing list. To subscribe send an e-mail to [majordomo@lifelike.com](mailto:majordomo@lifelike.com) with "subscribe ogo" somewhere in the body. An archive of previous postings to the list is available at [http://www.grot.com/zoomer/zoomer-list/archives.html](https://web.archive.org/web/19991012102353/http://grot.com/zoomer/zoomer-list/archives.html).
  
-_Newsgroups:_
-|||
+
+|_Newsgroups:_||
 |-------------------|----------------|
-|[comp.os.geos.misc](https://web.archive.org/web/20010424084421/news:comp.os.geos.misc)|General discussion of the GEOS operating system.|
-|[comp.sys.palmtops](https://web.archive.org/web/20010424084421/news:comp.sys.palmtops)|General discussion of palmtop computers.|
-|[comp.sys.handhelds](https://web.archive.org/web/20010424084421/news:comp.sys.handhelds)|General discussion of handheld computers.|
+|[comp.os.geos.misc](news:comp.os.geos.misc)|General discussion of the GEOS operating system.|
+|[comp.sys.palmtops](news:comp.sys.palmtops)|General discussion of palmtop computers.|
+|[comp.sys.handhelds](news:comp.sys.handhelds)|General discussion of handheld computers.|
  
-_Web pages:_
-|||
+
+|_Web pages:_||
 |-------------------|----------------|
-|Geoworks|[http://www.geoworks.com/devices/omnigo](https://web.archive.org/web/20010424084421/http://www.geoworks.com/devices/omnigo)|
+|Geoworks|[http://www.geoworks.com/devices/omnigo](https://web.archive.org/web/19981202044022/http://www.geoworks.com/devices/omnigo/)|
 |Max Mansour|[http://omnigo.home.ml.org](https://web.archive.org/web/20010424084421/http://omnigo.home.ml.org/)
-|Asher Hoskins|[http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010424084421/http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/)|
+|Asher Hoskins|[http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010429040246/http://domestic1.sjc.ox.ac.uk/~ahoskins/play/omnigo/)|
 |Finebind|[http://users.axxis.com/redirect/mfine/finebind.html](https://web.archive.org/web/20010424084421/http://users.axxis.com/redirect/mfine/finebind.html)
-|IZL homepage|[http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/20010424084421/http://www.netaxs.com/~jferas/izl.htm)
-|Ray Schuler|[http://www.usa.net/~schuler/ogware.html](https://web.archive.org/web/20010424084421/http://www.usa.net/~schuler/ogware.html)
-|Scottie Kinder|[http://www.concentric.net/~rkinder/ogo.shtml](https://web.archive.org/web/20010424084421/http://www.concentric.net/~rkinder/ogo.shtml)|
-|John Bearden|[http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm](https://web.archive.org/web/20010424084421/http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm)
+|IZL homepage|[http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/19961221133743/http://www.netaxs.com/~jferas/izl.htm)
+|Ray Schuler|[http://www.usa.net/~schuler/ogware.html](https://web.archive.org/web/20050809081739/http://www.usa.net/~schuler/ogware.html)
+|Scottie Kinder|[http://www.concentric.net/~rkinder/ogo.shtml](https://web.archive.org/web/20010420095920/http://www.concentric.net/~Rkinder/ogo.shtml)|
+|John Bearden|[http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm](https://web.archive.org/web/19981203075028/http://ourworld.compuserve.com/homepages/jbearden/geoindex.htm)
 |Nathan Fielder|[http://members.aol.com/nfiedler/index.html](https://web.archive.org/web/20010424084421/http://members.aol.com/nfiedler/index.html)|
 
 ### 2 OmniGo Hardware
@@ -278,7 +278,7 @@ Assembly Instructions:
 
 Once you feel confident with the set up, place in the OmniGo and work away. My setup measured 3.21 Volts (ran great). Another adaptor I tested produced 4 volts on the 3 volt switch setting. The OmniGo ran fine, but I wouldn't recommend using the OmniGo at this higher voltage.
 
-Design by [Jeff Hinman](https://web.archive.org/web/20010424084421/mailto:Jeffrey.Hinman@PSS.Boeing.com)
+Design by [Jeff Hinman](mailto:Jeffrey.Hinman@PSS.Boeing.com)
 
 #### 2.6 Can I upgrade the internal RAM?
 
@@ -292,13 +292,13 @@ The OmniGo firmware has a diagnostic mode for testing various parts of the OmniG
 
 The OmniGo screen is far from scratch-proof. Furthermore, the stylus that comes with the OmniGo can become scratched or otherwise damaged, and can scratch the screen. So, be careful with your stylus, and pay close attention to its "feel" on the screen; if it feels scratchy when you're writing, you're probably scratching your screen.
 
-There is a company called Concept Kitchen ([http://www.conceptkitchen.com](https://web.archive.org/web/20010424084421/http://www.conceptkitchen.com/)) that makes screen savers for a number of PDAs, including the OmniGo. They charge about $24 for a dozen protectors. I think their lifespan is about a month each. Their phone number is 415/929-1102, and e-mail is [Info@ConceptKitchen.Com](https://web.archive.org/web/20010424084421/mailto:Info@ConceptKitchen.Com).
+There is a company called Concept Kitchen ([http://www.conceptkitchen.com](https://web.archive.org/web/20010424084421/http://www.conceptkitchen.com/)) that makes screen savers for a number of PDAs, including the OmniGo. They charge about $24 for a dozen protectors. I think their lifespan is about a month each. Their phone number is 415/929-1102, and e-mail is [Info@ConceptKitchen.Com](mailto:Info@ConceptKitchen.Com).
 
 Another solution is to build your own screen protectors with transparency film for overhead projectors. David Virga recommends the type for inkjet/dye-sub printers, which does have a coating but does not have an opaque strip. Window cleaner removes the coating nicely. With careful marking and cutting, you can easily get nine protectors out of one letter-size transparency sheet. You can even devise a template using Freelance/PowerPoint/etc, print that on the sheet, cut apart and then clean off the coating. Each sheet lasts about three weeks before it gets marred to the point that I find it too distracting. I don't notice a significant degradation in touchscreen performance, and this film is stiff enough to install and stay in place well.
 
 Tthe screen is 2 1/2 inches (64mm) by 3 3/8 inches (84mm). A 1/16 inch (2mm) tab fits under the edge of the screen with no apparent problem. So, try an overall template size of 2 5/8 inches (68mm) by 3 1/2 inches (88mm), and scoop out the sides to make tabs. Use a good straight edge ruler and a sharp hobby knife for best results.
 
-Design by [David Virga](https://web.archive.org/web/20010424084421/mailto:VirgaD@den.disa.mil)
+Design by [David Virga](mailto:VirgaD@den.disa.mil)
 
 #### 2.9 My OmniGo will not turn on, what can I do?
 
@@ -358,7 +358,7 @@ You can force an application to save to state anytime by pressing FN-F3. These c
 
 IZL applications where written using the IZL compiler and require the IZL interpreter to run them.  You can download the IZL interpreter from the IZL homepage.  IZL applications should be installed into the documents directory on your OmniGo. 
 
-The IZL homepage is at [http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/20010424084421/http://www.netaxs.com/~jferas/izl.htm).
+The IZL homepage is at [http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/19961221133743/http://www.netaxs.com/~jferas/izl.htm).
 
 #### 3.7 How do I create an event in the appointment book?
 
@@ -460,7 +460,7 @@ _Utilities_ Java Interpreter for programming
 4.  This survey was managed using a NewFile database.
 5.  This list is by no means "Complete".
 
-Compiled by [Byron Collins](https://web.archive.org/web/20010424084421/mailto:ByronC0141@aol.com)  
+Compiled by [Byron Collins](mailto:ByronC0141@aol.com)  
 
 ### 4 Desktop Connectivity Information
 
@@ -517,7 +517,7 @@ OmniGo software is often available in the form of a GEOS Package. A GEOS Package
 
 If you do not have Windows, there is a freeware IZL application called UNGPK which can be used to extract the contents of a GPK file on the OmniGo.  For UNIX and OS/2, the OgINST and OgFTP programs can be used to install GEOS packages.
 
-Visit Asher Hoskins' OmniGo Hompage at [http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010424084421/http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/) to download OgFTP and OgINST.
+Visit Asher Hoskins' OmniGo Hompage at [http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010429040246/http://domestic1.sjc.ox.ac.uk/~ahoskins/play/omnigo/) to download OgFTP and OgINST.
 
 #### 4.6 What if I use DOS?
 
@@ -535,7 +535,7 @@ You can get MacPCCOM and Mac On The Go from [http://omnigo.home.ml.org](https://
 
 If you use UNIX or OS/2 you'll need a copy OgFTP, from Asher Hoskins, to connect your OmniGo to your UNIX or OS/2 desktop. OgFTP will allow you to transfer files to and from the OmniGo. To install applications, you'll need a copy of OgINST as well. OgINST will extract the application from a GEOS Package and then use OgFTP to upload the application to your OmniGo.
 
-Visit Asher Hoskins' OmniGo Hompage at [http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010424084421/http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/) to download OgFTP and OgINST.
+Visit Asher Hoskins' OmniGo Hompage at [http://domestic1.sjc.ox.ac.uk/~ahoskins/omnigo/](https://web.archive.org/web/20010429040246/http://domestic1.sjc.ox.ac.uk/~ahoskins/play/omnigo/) to download OgFTP and OgINST.
 
 ### 5 Memory and Memory Expansion
 
@@ -585,7 +585,7 @@ dLite is a runtime file decompressor which can be used to increase storage on th
 Installing dLite on the OmniGo:
 
 1.  Obtain the distribution archive of dLite, the latest version is dlite111.zip  
-    You can get it from Marcus Groeber at [http://ourworld.compuserve.com/homepages/mgroeber/geos.htm](https://web.archive.org/web/20010424084421/http://ourworld.compuserve.com/homepages/mgroeber/geos.htm)
+    You can get it from Marcus Groeber at [http://www.mgroeber.de/geos.htm](https://web.archive.org/web/20010408035953/http://www.mgroeber.de/geos.htm)
 2.  Open B:\\AUTOEXEC.BAT with OgEDIT or use OmniCom to download it to your PC and open it in EDIT or NOTEPAD.
 3.  Change the last lines of the AUTOEXEC.BAT file, starting from the label ":runGEOS", to read:
 4.  :runGEOS
@@ -694,7 +694,7 @@ The older GEOS Ensemble SDK will also allow the creation of OmniGo applications,
 
 Geoworks is working on a new version of Nokia 9000 communicator SDK which runs in Windows NT and removes the requirement of needing a second computer. Such an SDK can be used to write GEOS applications for the OmniGo.
 
-Geoworks has information on all GEOS SDK's available on their web site at [http://www.geoworks.com/devrel/](https://web.archive.org/web/20010424084421/http://www.geoworks.com/devrel/).
+Geoworks has information on all GEOS SDK's available on their web site at [http://www.geoworks.com/devrel/](https://web.archive.org/web/19990218141232/http://www.geoworks.com/devrel/).
 
 #### 7.3 What is IZL?
 
@@ -702,7 +702,7 @@ IZL stands for Integrated Zoomer Language and was orginally developed for the Zo
 
 John has been concentrating his efforts on building CASL, which is a language similar to IZL for the PalmPilot.  A port of CASL to the OmniGo is planned. 
 
-For more information on IZL visit the IZL homepage at [http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/20010424084421/http://www.netaxs.com/~jferas/izl.htm).  
+For more information on IZL visit the IZL homepage at [http://www.netaxs.com/~jferas/izl.htm](https://web.archive.org/web/19961221133743/http://www.netaxs.com/~jferas/izl.htm).  
 For more information on CASL visit the CASLsoft homepage at [http://www.caslsoft.com](https://web.archive.org/web/20010424084421/http://www.caslsoft.com/).
 
 ### 8 Communication
@@ -713,7 +713,7 @@ ArtsCom from Artsoft can be used to send and received Internet E-mail from your 
 
 A preview release of ArtsCom is available from the Artsoft web site.  It will expire on a certain date and limited the number of messages you can send.
 
-Artsoft product page: [http://www.artsoft.ru/products.htm](https://web.archive.org/web/20010424084421/http://www.artsoft.ru/products.htm).
+Artsoft product page: [http://www.artsoft.ru/products.htm](https://web.archive.org/web/20010406102114/http://artsoft.ru/eng/products.htm).
 
 #### 8.2 Can I use my OmniGo for Web Browsing?
 
@@ -818,7 +818,7 @@ February 1997. From XXX, to UK work address, contacted via FAX. Paid with VISA c
 
 March 1997. From Reboot Technologies USA, to UK address, contacted via phone. 1MB Grid SRAM (USD 40). Delivered in 13 days via normal post. Pick-up and pay duty/VAT at post office (GBP 9). Total cost GBP 43 + five minute phone call. Local cost GBP 99.
 
-Submitted by [Brian Inwood](https://web.archive.org/web/20010424084421/mailto:B.Inwood@Wolff-Olins.com)
+Submitted by [Brian Inwood](mailto:B.Inwood@Wolff-Olins.com)
 
 **End of FAQ.**
 
