@@ -1,8 +1,7 @@
-# HP OmniGo 100/120 
+# HP OmniGo 100/120 - Frequently Asked Questions
 
 ![](omnigo100.gif)
 
-## FREQUENTLY ASKED QUESTIONS  
 The HP OmniGo 100/120 Organizer Plus  
 First Draft  
 Last Updated on September 14, 1997
