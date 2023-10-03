@@ -115,18 +115,18 @@ Copyright © 1997 by Wayne T. Venables, all rights reserved. This FAQ may be pos
 
 [**8 Communication**](#8-communication)
 
-**[8.1 Can I read Internet E-mail with the OmniGo?](#81-can-i-read-internet-e-mail-with-the-omnigo)  
+> **[8.1 Can I read Internet E-mail with the OmniGo?](#81-can-i-read-internet-e-mail-with-the-omnigo)  
 [8.2 Can I use my OmniGo for Web Browsing?](#82-can-i-use-my-omnigo-for-web-browsing)  
 [8.3 Can I fax from my OmniGo?](#83-can-i-fax-from-my-omnigo)**
 
 [**9 Customizing the OmniGo**](#9-customizing-the-omnigo)
 
-**[9.1 Note and Warning on Customizing the OmniGo.](#91-note-and-warning-on-customizing-the-omnigo)  
+> **[9.1 Note and Warning on Customizing the OmniGo.](#91-note-and-warning-on-customizing-the-omnigo)  
 [9.2 How can I remove unused programs from the Home Screen?](#92-how-can-i-remove-unused-programs-from-the-home-screen)**
 
 [**10 International Information**](#10-international-information)
 
-[**10.1 Can I purchase cheaper OmniGo goods from the USA?**](#101-can-i-purchase-cheaper-omnigo-goods-from-the-usa)
+> [**10.1 Can I purchase cheaper OmniGo goods from the USA?**](#101-can-i-purchase-cheaper-omnigo-goods-from-the-usa)
 
 ### 1 General Omnigo Information
 
