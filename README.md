@@ -1,10 +1,11 @@
-# HP OmniGo 100/120 FAQ
+# HP OmniGo 100/120 
+
+![](omnigo100.gif)
+
 ## FREQUENTLY ASKED QUESTIONS  
 The HP OmniGo 100/120 Organizer Plus  
 First Draft  
 Last Updated on September 14, 1997
-
-![](omnigo100.gif)
 
 ### FIRST DRAFT INFORMATION
 
@@ -786,7 +787,7 @@ Instructions:
 11. **Change:**  
     cd \\geoworks  
     geos
-    
+
     **To:**  
     cd \\geoworks  
     copy \\geoworks\\GEOS.NEW \\geoworks\\GEOS.INI  
