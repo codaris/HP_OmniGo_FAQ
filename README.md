@@ -223,6 +223,7 @@ Moderate use of the OmniGo will allow for approximately 4 weeks of use on one pa
 |220     |Running DOS.
 |240     |Running Laplink in DOS.
 |260     |Transmitting with Laplink.
+
 **Measurements by Juraj Mucko**
 
 Types of Batteries:
@@ -823,3 +824,4 @@ Submitted by [Brian Inwood](mailto:B.Inwood@Wolff-Olins.com)
 **End of FAQ.**
 
 Copyright © 1997 by Wayne T. Venables, all rights reserved. This FAQ may be posted to any USENET newsgroup, on-line service, or BBS as long as it is posted in its entirety and includes this copyright statement. This FAQ may not be distributed for financial gain. This FAQ may not be included in commercial collections or compilations without express permission from the author.
+
