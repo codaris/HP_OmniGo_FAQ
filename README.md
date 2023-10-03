@@ -782,8 +782,8 @@ Instructions:
     system = SYS:\\SYSTEM  
     document = SYS:\\DOCUMENT
     
-10.  Using Text Editor or OgText, edit the AUTOEXEC.BAT file.
-11.  **Change:**  
+10. Using Text Editor or OgText, edit the AUTOEXEC.BAT file.
+11. **Change:**  
     cd \\geoworks  
     geos
     
@@ -791,7 +791,7 @@ Instructions:
     cd \\geoworks  
     copy \\geoworks\\GEOS.NEW \\geoworks\\GEOS.INI  
     geos
-    
+
     **Note:** FN-2 is the '\\' key  
     **Note:** If you are using DOS mode on the Omnigo, you can copy the file from DOS instead of editing your Autoexec.bat.
     
